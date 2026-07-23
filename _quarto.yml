@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+date: last-modified
+execute:
+  freeze: auto
+
+website:
+  title: "Obstetrics"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - index.md
+      - text: "---"
+      - section: "Basics"
+        contents:
+          - basics.md
+          - Pregnancy dating.md
+          - Notation.md
+          - Critical care.md
+      - text: "---"
+      - section: "Medical Disorders"
+        contents:
+          - htn.md
+          - dm.md
+  page-footer: "Dr Hamdy Bakry"
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    format-links: [typst]
+  typst:
+    number-sections: true
+    include-in-header:
+      - text: |
+          #set page(
+            header: context [
+              #grid(
+                columns: (1fr, 1fr),
+                align(left)[#document.title]
+              )
+            ],
+            footer: context [
+              #grid(
+                columns: (1fr, 1fr),
+                align(left)[Dr Hamdy Bakry],
+                align(right)[Page #counter(page).display("1 of 1", both: true)]
+              )
+            ]
+          )

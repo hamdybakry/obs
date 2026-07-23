@@ -1,0 +1,130 @@
+[
+  {
+    "objectID": "Pregnancy dating.html",
+    "href": "Pregnancy dating.html",
+    "title": "Pregnancy dating",
+    "section": "",
+    "text": "Our aim when dating a pregnancy is\n\nto get the EDD (expected date of delivery)\n\nMenstrual dating: getting the EDD from LMP\nUltrasound dating: getting EDD from US using fetal biometry\n\nto calculate the current GA (conveniently from EDD, for easy comparison with US regardless of its GA)\n\nAre there different types of “ages” for a pregnancy?\n\nMenstrual age = GA: from the LMP\nConception age: from fertilization = menstrual – 2 weeks\nImplantation age: from implantation = menstrual – 3 weeks\n\nWhat is the EDD?\n\nWhen calculating GA from an average 28-day cycle, EDD = 280 days (40 weeks) after LMP\n\nFor cycles longer than 28 days: add the difference from 28\nFor cycles shorter than 28 days: subtract the difference from 28\n\nTo get the EDD from the LMP (the 280 d = 40 w), we apply Naegele rule: \\[EDD = LMP + 7d - 3m + 1y\\] Tip: if LMP &lt; April → \\(EDD = LMP + 7d + 9m\\)\n\nMenstrual dating should be confirmed with US dating before 20 weeks.\nOtherwise, this pregnancy is suboptimally dated.\n\nEDD can be reassigned only once (if any) if the discrepancy threshold is met, according to the GA at US.\nACOG table\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1\n\n14\n21\n28\n…\n280\n\n\n\n\n-2 cycles\n-1 cycle\nLMP\n\nOvulation\n\nMissed period\n\nEDD\n\n\n\n\n\n\nFertilization\nImplantation",
+    "crumbs": [
+      "Basics",
+      "Pregnancy dating"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ABOUT",
+    "section": "",
+    "text": "This is an Obstetrics handbook intended for OBGYN residents. It can be helpful to specialists as a quick reference.\n\nLevels (tags) for topics\n\nFundamental\nIntermediate\nAdvanced",
+    "crumbs": [
+      "ABOUT"
+    ]
+  },
+  {
+    "objectID": "index.html#the-book",
+    "href": "index.html#the-book",
+    "title": "ABOUT",
+    "section": "",
+    "text": "This is an Obstetrics handbook intended for OBGYN residents. It can be helpful to specialists as a quick reference.\n\nLevels (tags) for topics\n\nFundamental\nIntermediate\nAdvanced",
+    "crumbs": [
+      "ABOUT"
+    ]
+  },
+  {
+    "objectID": "index.html#the-author",
+    "href": "index.html#the-author",
+    "title": "ABOUT",
+    "section": "The Author",
+    "text": "The Author\nHamdy Bakry Alqenawy, MD\nLecturer in Obstetrics & Gynecology\nAin Shams University Faculty of Medicine",
+    "crumbs": [
+      "ABOUT"
+    ]
+  },
+  {
+    "objectID": "index.html#the-licence",
+    "href": "index.html#the-licence",
+    "title": "ABOUT",
+    "section": "The Licence",
+    "text": "The Licence\n\nCC BY-NC-SA\nThis material is available online for free. The author did not, and will not, grant permission to reproduce any part for commercial interests.",
+    "crumbs": [
+      "ABOUT"
+    ]
+  },
+  {
+    "objectID": "index.html#the-framework",
+    "href": "index.html#the-framework",
+    "title": "ABOUT",
+    "section": "The Framework",
+    "text": "The Framework\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "ABOUT"
+    ]
+  },
+  {
+    "objectID": "dm.html",
+    "href": "dm.html",
+    "title": "Diabetes with pregnancy",
+    "section": "",
+    "text": "GDM\n\nScreening strategies\n\nUniversal\nHigh-risk-only\n\nScreening methods\n\nOne-step approach: 75-g-OGTT\nTwo-step approach: 50-g-GCT then 100-g-OGTT if positive\n\n\n\n\n\n\nPGDM\n\nPreconception counseling\n\nHbA1c\nOral agents\n\nAntenatal care\n\nVisits\nControl\nInsulin\nAntenatal steroids\n\nIntrapartum care\n\nInsulin\n\nPostpartum care\n\nControl\nContraception",
+    "crumbs": [
+      "Medical Disorders",
+      "Diabetes with pregnancy"
+    ]
+  },
+  {
+    "objectID": "contents.html",
+    "href": "contents.html",
+    "title": "CONTENTS",
+    "section": "",
+    "text": "[[Preconception and Antenatal Care]]\n[[Notation]]\n[[Pregnancy dating]]\n\n\n\n\n\n\n\n\n\n\n[[Diabetes with pregnancy]]\n[[Hypertensive disorders of pregnancy]]\n\n\n\n\n\n\n\n\n[[Maternal collapse]]\n\n\n\n\n\n[[Back to the Basics!]]\n[[Critical Care; What you need to know]]\n\nindex"
+  },
+  {
+    "objectID": "contents.html#medical-disorders",
+    "href": "contents.html#medical-disorders",
+    "title": "CONTENTS",
+    "section": "",
+    "text": "[[Diabetes with pregnancy]]\n[[Hypertensive disorders of pregnancy]]"
+  },
+  {
+    "objectID": "contents.html#obstetric-emergencies",
+    "href": "contents.html#obstetric-emergencies",
+    "title": "CONTENTS",
+    "section": "",
+    "text": "[[Maternal collapse]]"
+  },
+  {
+    "objectID": "contents.html#miscellaneous",
+    "href": "contents.html#miscellaneous",
+    "title": "CONTENTS",
+    "section": "",
+    "text": "[[Back to the Basics!]]\n[[Critical Care; What you need to know]]\n\nindex"
+  },
+  {
+    "objectID": "Antenatal fetal wellbeing.html",
+    "href": "Antenatal fetal wellbeing.html",
+    "title": "Antenatal fetal wellbeing",
+    "section": "",
+    "text": "Ultrasound\nDoppler studies\nNon-stress test (NST)\nBiophysical profile (BPP)\nMaternal serum screening\nInvasive testing (CVS, amniocentesis)\nCell-free fetal DNA testing"
+  },
+  {
+    "objectID": "Antenatal fetal wellbeing.html#according-to-modality",
+    "href": "Antenatal fetal wellbeing.html#according-to-modality",
+    "title": "Antenatal fetal wellbeing",
+    "section": "",
+    "text": "Ultrasound\nDoppler studies\nNon-stress test (NST)\nBiophysical profile (BPP)\nMaternal serum screening\nInvasive testing (CVS, amniocentesis)\nCell-free fetal DNA testing"
+  },
+  {
+    "objectID": "Antenatal fetal wellbeing.html#according-to-ga",
+    "href": "Antenatal fetal wellbeing.html#according-to-ga",
+    "title": "Antenatal fetal wellbeing",
+    "section": "According to GA",
+    "text": "According to GA\n\nFirst Trimester (up to 13+6 weeks)\n\nUltrasound: Nuchal translucency, crown-rump length, early anatomy\nBiochemical markers: PAPP-A, free beta-hCG\nCell-free fetal DNA testing\nChorionic villus sampling (CVS) if indicated\nFetal heartbeat detection\nDating scan\nEarly fetal anomaly screening\nAssessment of multiple pregnancies\nEarly placental location assessment\n\n\n\nSecond Trimester (14 to 27+6 weeks)\n\nUltrasound: Detailed anatomy scan, growth assessment\nMaternal serum screening: Quadruple test\nAmniocentesis if indicated\nFetal echocardiography if indicated\nAssessment of fetal movements\nPlacental location and function assessment\nCervical length measurement if indicated\n\n\n\nThird Trimester (28 Weeks to delivery)\n\nUltrasound: Growth scans, amniotic fluid assessment, Doppler studies\nNon-stress test (NST)\nBiophysical profile (BPP)\nAssessment of fetal position and presentation\nCervical assessment for labor readiness\nFetal movement counting\nAssessment of placental function and aging\nMonitoring for signs of fetal distress\nPreparation for delivery planning\nAssessment of multiple pregnancies\nEvaluation of fetal well-being in high-risk pregnancies\nAssessment of fetal growth restriction (FGR) or macrosomia\nScreening for gestational diabetes effects on fetus\nMonitoring for preeclampsia effects on fetus\nEvaluation of amniotic fluid volume (polyhydramnios/oligohydramnios)\nFetal lung maturity assessment if preterm delivery is anticipated"
+  },
+  {
+    "objectID": "Preconception and Antenatal Care.html",
+    "href": "Preconception and Antenatal Care.html",
+    "title": "Obstetrics",
+    "section": "",
+    "text": "New shared note\nNew line"
+  }
+]
